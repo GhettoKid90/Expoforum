@@ -1,0 +1,18 @@
+.header {
+  background-image: url(./img/bgc.jpg);
+  background-color: rgba(0, 0, 0, 0.295);
+  background-blend-mode: overlay;
+  width: 1920px;
+  height: 800px;
+  margin: 0px auto;
+}
+.conteiner {
+}
+.header_nav {
+}
+.naw_center_menu {
+}
+.nav_right_menu {
+}
+.nav_lenguage_menu {
+}
